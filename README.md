@@ -1,4 +1,5 @@
  ### FYI
+ The project was frozen a month before the release.
  This repository exists solely so that I can share my current code with different companies that I want to get a job with, since the rest of the repositories are not an actual indicator of my skills at the moment (03/21/2023).
  
  This is code-only (all assets were stripped out) part of unfinished tower defense game.
